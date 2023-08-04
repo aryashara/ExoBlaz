@@ -40,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/Pages/VoiturePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVm9pdHVyZVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/Shared/DemoLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0RlbW9MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -58,6 +62,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/Shared/TestComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1Rlc3RDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/Shared/VoitureVignette.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1ZvaXR1cmVWaWduZXR0ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/_Imports.razor]
