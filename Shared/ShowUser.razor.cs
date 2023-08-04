@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Components;
-using ExoBlaz.ExoBlaz.Models;
-using ExoBlaz.ExoBlaz.Datas;
+using ExoBlaz.Models;
+
 
 namespace ExoBlaz.Shared
 {
