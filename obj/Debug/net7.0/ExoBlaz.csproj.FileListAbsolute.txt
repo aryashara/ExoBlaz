@@ -1,0 +1,6 @@
+/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/obj/Debug/net7.0/ExoBlaz.csproj.AssemblyReference.cache
+/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/obj/Debug/net7.0/ExoBlaz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/obj/Debug/net7.0/ExoBlaz.AssemblyInfoInputs.cache
+/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/obj/Debug/net7.0/ExoBlaz.AssemblyInfo.cs
+/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/obj/Debug/net7.0/ExoBlaz.csproj.CoreCompileInputs.cache
+/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/obj/Debug/net7.0/ExoBlaz.MvcApplicationPartsAssemblyInfo.cache

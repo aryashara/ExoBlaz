@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = ExoBlaz
+build_property.RootNamespace = ExoBlaz
+build_property.ProjectDir = /Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/Pages/Demo1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVtbzEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/Pages/Demo2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVtbzIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/Pages/Demo3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVtbzMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/Pages/Exo1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhvMS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/Shared/DemoLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0RlbW9MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/Shared/ExoLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0V4b0xheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/Shared/ShowUser.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1Nob3dVc2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/Shared/TestComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1Rlc3RDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-aitl9w343r
+
+[/Users/tanyavanhoebroeck/Desktop/exoBlazor/ExoBlaz/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-1bku0z6rwl
